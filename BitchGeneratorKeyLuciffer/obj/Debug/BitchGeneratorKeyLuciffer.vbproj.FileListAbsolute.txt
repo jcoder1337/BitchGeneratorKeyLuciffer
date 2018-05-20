@@ -1,0 +1,13 @@
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\bin\Debug\BitchGeneratorKeyLuciffer.exe.config
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\bin\Debug\BitchGeneratorKeyLuciffer.exe
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\bin\Debug\BitchGeneratorKeyLuciffer.pdb
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\bin\Debug\BitchGeneratorKeyLuciffer.xml
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.vbprojAssemblyReference.cache
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.Main.resources
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.Generator.resources
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.Resources.resources
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.vbproj.GenerateResource.cache
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.vbproj.CoreCompileInputs.cache
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.exe
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.xml
+D:\Users\Krypton\Documents\GitHub\Csharp_And_VB.NET\BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer\obj\Debug\BitchGeneratorKeyLuciffer.pdb

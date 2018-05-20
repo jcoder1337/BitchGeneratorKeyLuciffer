@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BitchGeneratorKeyLuciffer", "BitchGeneratorKeyLuciffer\BitchGeneratorKeyLuciffer.vbproj", "{1878D6C1-7AE9-4EF6-8907-AD0DCBFAA08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1878D6C1-7AE9-4EF6-8907-AD0DCBFAA08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1878D6C1-7AE9-4EF6-8907-AD0DCBFAA08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1878D6C1-7AE9-4EF6-8907-AD0DCBFAA08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1878D6C1-7AE9-4EF6-8907-AD0DCBFAA08E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3815869A-7C45-4D0D-80A6-AE17E3D4A5AF}
+	EndGlobalSection
+EndGlobal
